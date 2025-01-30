@@ -1,7 +1,7 @@
 (* Solutions to SA2 assignment, Intro to ML *)
 
 (* Name: Kareem Khalidi                     *)
-(* Time spent on HW6: In Progress           *)
+(* Time spent on HW6: 5 hrs                 *)
 
 (* Collaborators and references:            *)
 (* - chat.openai.com                        *)
